@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rays.dao.ItemDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.form.ItemForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.ItemDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.ItemServiceInt"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.rays.dto.DepartmentDTO"/>
+    <fullyQualifiedTypeName name="com.rays.dao.DepartmentDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.service.DepartmentServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.dao.StockAnalysisDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.dto.StockAnalysisDTO"/>
+</qualifiedTypeNameHistroy>
